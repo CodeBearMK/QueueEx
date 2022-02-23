@@ -1,0 +1,15 @@
+D:\cat32tw\Desktop\QueueEx\bin\Debug\net6.0\QueueEx.exe
+D:\cat32tw\Desktop\QueueEx\bin\Debug\net6.0\QueueEx.deps.json
+D:\cat32tw\Desktop\QueueEx\bin\Debug\net6.0\QueueEx.runtimeconfig.json
+D:\cat32tw\Desktop\QueueEx\bin\Debug\net6.0\QueueEx.dll
+D:\cat32tw\Desktop\QueueEx\bin\Debug\net6.0\ref\QueueEx.dll
+D:\cat32tw\Desktop\QueueEx\bin\Debug\net6.0\QueueEx.pdb
+D:\cat32tw\Desktop\QueueEx\obj\Debug\net6.0\QueueEx.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\QueueEx\obj\Debug\net6.0\QueueEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\cat32tw\Desktop\QueueEx\obj\Debug\net6.0\QueueEx.AssemblyInfoInputs.cache
+D:\cat32tw\Desktop\QueueEx\obj\Debug\net6.0\QueueEx.AssemblyInfo.cs
+D:\cat32tw\Desktop\QueueEx\obj\Debug\net6.0\QueueEx.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\QueueEx\obj\Debug\net6.0\QueueEx.dll
+D:\cat32tw\Desktop\QueueEx\obj\Debug\net6.0\ref\QueueEx.dll
+D:\cat32tw\Desktop\QueueEx\obj\Debug\net6.0\QueueEx.pdb
+D:\cat32tw\Desktop\QueueEx\obj\Debug\net6.0\QueueEx.genruntimeconfig.cache
